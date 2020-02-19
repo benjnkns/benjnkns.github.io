@@ -1,8 +1,10 @@
 ## The best way to end abortion is by not getting an abortion.
 
-Parents waiting for adoption counter: 8900
+Parents waiting for adoption counter: 2 Million
 
-//source : credibile source.
+"— which means there are as many as 36 waiting families for every one child who is placed for adoption. "
+
+[link] (https://www.americanadoptions.com/pregnant/waiting_adoptive_families)
 
 ### Markdown
 

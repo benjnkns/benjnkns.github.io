@@ -4,7 +4,7 @@ Parents waiting for adoption counter: 2 Million
 
 "— which means there are as many as 36 waiting families for every one child who is placed for adoption. "
 
-[link] (https://www.americanadoptions.com/pregnant/waiting_adoptive_families)
+[link](https://www.americanadoptions.com/pregnant/waiting_adoptive_families)
 
 ### Markdown
 

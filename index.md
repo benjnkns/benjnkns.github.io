@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## The best way to end abortion is by not getting an abortion.
 
-You can use the [editor on GitHub](https://github.com/benjnkns/benjnkns.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Parents waiting for adoption counter: 8900
+//source : credibile source.
 
 ### Markdown
 
